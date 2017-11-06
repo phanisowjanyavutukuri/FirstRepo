@@ -1,0 +1,5 @@
+cat one.sh | while read line
+do
+$line
+done
+

@@ -1,0 +1,2 @@
+$one  ALL=(ALL:ALL) ALL /etc/sudoers
+$username  ALL=(ALL:ALL) ALL /etc/sudoers

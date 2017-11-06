@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.o7planning</groupId>
+  <artifactId>SpringMVCSecurityXML</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171018100826</lastUpdated>
+  </versioning>
+</metadata>

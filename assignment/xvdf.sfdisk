@@ -1,0 +1,7 @@
+label: dos
+label-id: 0x913bb0d3
+device: /dev/xvdf
+unit: sectors
+
+/dev/xvdf1 : start=        2048, size=        1453, type=83
+/dev/xvdf2 : start=        3501, size=         500, type=83
